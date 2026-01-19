@@ -1,0 +1,16 @@
+Model: Random Forest
+Split: BIDDER-LEVEL (unseen bidders in test)
+========================================
+
+Test ROC AUC: 0.8872
+Test PR AUC: 0.8450
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.90      0.87      1631
+           1       0.80      0.71      0.75       943
+
+    accuracy                           0.83      2574
+   macro avg       0.82      0.80      0.81      2574
+weighted avg       0.83      0.83      0.83      2574

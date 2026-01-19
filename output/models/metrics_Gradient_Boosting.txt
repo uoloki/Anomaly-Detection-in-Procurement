@@ -1,0 +1,16 @@
+Model: Gradient Boosting
+Split: BIDDER-LEVEL (unseen bidders in test)
+========================================
+
+Test ROC AUC: 0.8346
+Test PR AUC: 0.8165
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.87      0.86      1631
+           1       0.76      0.75      0.76       943
+
+    accuracy                           0.82      2574
+   macro avg       0.81      0.81      0.81      2574
+weighted avg       0.82      0.82      0.82      2574

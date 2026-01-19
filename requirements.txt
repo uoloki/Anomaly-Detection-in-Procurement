@@ -1,0 +1,24 @@
+# Cartel Detection Project - Dependencies
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Network Analysis
+networkx>=2.8.0
+
+# PDF Conversion (optional)
+markdown>=3.4.0
+# weasyprint>=57.0  # Uncomment if PDF conversion needed (requires GTK libraries)
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+

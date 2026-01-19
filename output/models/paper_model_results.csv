@@ -1,0 +1,2 @@
+model,features,n_features,cv_roc_auc_mean,cv_roc_auc_std,cv_pr_auc_mean,cv_pr_auc_std,test_roc_auc,test_pr_auc,train_samples,test_samples,train_bidders,test_bidders
+Random Forest (Fazekas et al. 2023),"['Company Size', 'CPV Division (Sector)', 'Missing Bidders (Buyer)', 'Missing Bidders (Market)', 'Subcontracting', 'Number of Bidders', 'Relative Price', 'Single Bidding', 'Consortia']",9,0.6692188008490165,0.10088387407921288,0.6572564410903686,0.09990318978418733,0.659067606299678,0.6512195818540114,10543,2327,801,200
